@@ -33,6 +33,6 @@ Uses filtered high-speed camera frames of shock compressed particles to spatiall
 - Visualize emission growth across frames
 - GUI-driven interaction
 
-![Alt text](GIFs/distributions.gif)
+
 
 
